@@ -1,0 +1,63 @@
+00:38:37,543 [main] INFO ru.innopolis.nur.homework.Main - Method test getStrUrl: successful
+00:41:22,924 [main] INFO ru.innopolis.nur.homework.Main - Method test setStrUrl: successful
+00:41:22,928 [main] INFO ru.innopolis.nur.homework.Main - Method test getStrUrl: successful
+00:48:10,003 [main] INFO ru.innopolis.nur.homework.Main - Method test setStrUrl: successful
+00:48:10,007 [main] INFO ru.innopolis.nur.homework.Main - Method test getStrUrl: successful
+00:48:10,008 [main] INFO ru.innopolis.nur.homework.Main - Method test getResourceName: successful
+00:49:13,231 [main] INFO ru.innopolis.nur.homework.Main - Method test setStrUrl: successful
+00:49:13,234 [main] INFO ru.innopolis.nur.homework.Main - Method test getStrUrl: successful
+00:49:13,235 [main] INFO ru.innopolis.nur.homework.Main - Method test getResourceName: successful
+00:50:13,475 [main] INFO ru.innopolis.nur.homework.Main - Method test sum: successful
+00:50:13,479 [main] INFO ru.innopolis.nur.homework.Main - Method test setStrUrl: successful
+00:50:13,481 [main] INFO ru.innopolis.nur.homework.Main - Method test getStrUrl: successful
+00:50:13,490 [main] INFO ru.innopolis.nur.homework.Main - Method test getResourceName: successful
+01:20:22,652 [main] INFO ru.innopolis.nur.homework.Main - Method test sum: successful
+01:20:22,656 [main] INFO ru.innopolis.nur.homework.Main - Method test getFileName: successful
+01:20:22,658 [main] INFO ru.innopolis.nur.homework.Main - Method test setFileName: successful
+01:20:22,659 [main] INFO ru.innopolis.nur.homework.Main - Method test getFileName: successful
+01:20:27,035 [main] INFO ru.innopolis.nur.homework.Main - Method test setFinalSum: successful
+01:20:27,040 [main] INFO ru.innopolis.nur.homework.Main - Method test getFinalSum: successful
+10:20:18,572 [main] INFO ru.innopolis.nur.homework.Main - Method test setFinalSum: successful
+10:20:18,584 [main] INFO ru.innopolis.nur.homework.Main - Method test getFinalSum: successful
+18:07:14,120 [main] INFO ru.innopolis.nur.homework.Main - Method test setActiveThreads: successful
+18:07:14,127 [main] INFO ru.innopolis.nur.homework.Main - Method test getActiveThreads: successful
+18:07:14,128 [main] INFO ru.innopolis.nur.homework.Main - Method test setFinalSum: successful
+18:07:14,129 [main] INFO ru.innopolis.nur.homework.Main - Method test getFinalSum: successful
+20:23:03,442 [main] INFO ru.innopolis.nur.homework.Main - Method test setActiveThreads: successful
+20:23:03,446 [main] INFO ru.innopolis.nur.homework.Main - Method test getFinalSum: successful
+20:23:03,447 [main] INFO ru.innopolis.nur.homework.Main - Method test getActiveThreads: successful
+20:23:03,447 [main] INFO ru.innopolis.nur.homework.Main - Method test setFinalSum: successful
+20:23:03,448 [main] INFO ru.innopolis.nur.homework.Main - Method test getFinalSum: successful
+22:00:13,461 [main] INFO ru.innopolis.nur.homework.Main - Program has started
+22:00:13,521 [Thread-2] INFO ru.innopolis.nur.homework.Main - The total sum of all even positive numbers is: 62
+22:00:13,521 [Thread-2] INFO ru.innopolis.nur.homework.Main - The number of finished threads is: 3
+22:00:13,521 [Thread-2] INFO ru.innopolis.nur.homework.Main - The program has finished
+22:00:42,571 [main] INFO ru.innopolis.nur.homework.Main - Program has started
+22:00:42,693 [Thread-2] INFO ru.innopolis.nur.homework.Main - The total sum of all even positive numbers is: 108000
+22:00:42,693 [Thread-2] INFO ru.innopolis.nur.homework.Main - The number of finished threads is: 3
+22:00:42,693 [Thread-2] INFO ru.innopolis.nur.homework.Main - The program has finished
+22:01:20,929 [main] INFO ru.innopolis.nur.homework.Main - Program has started
+22:01:34,584 [Thread-0] INFO ru.innopolis.nur.homework.Main - The total sum of all even positive numbers is: 58192
+22:01:34,586 [Thread-0] INFO ru.innopolis.nur.homework.Main - The number of finished threads is: 2
+22:01:34,586 [Thread-0] INFO ru.innopolis.nur.homework.Main - The program has finished
+22:02:31,198 [main] INFO ru.innopolis.nur.homework.Main - Method test sum: successful
+22:02:31,206 [main] INFO ru.innopolis.nur.homework.Main - Method test getFileName: successful
+22:02:31,207 [main] INFO ru.innopolis.nur.homework.Main - Method test setFileName: successful
+22:02:31,208 [main] INFO ru.innopolis.nur.homework.Main - Method test getFileName: successful
+22:02:38,900 [main] INFO ru.innopolis.nur.homework.Main - Method test setActiveThreads: successful
+22:02:38,904 [main] INFO ru.innopolis.nur.homework.Main - Method test getFinalSum: successful
+22:02:38,905 [main] INFO ru.innopolis.nur.homework.Main - Method test getActiveThreads: successful
+22:02:38,906 [main] INFO ru.innopolis.nur.homework.Main - Method test setFinalSum: successful
+22:02:38,906 [main] INFO ru.innopolis.nur.homework.Main - Method test getFinalSum: successful
+22:02:45,190 [main] INFO ru.innopolis.nur.homework.Main - Method test sum: successful
+22:02:45,194 [main] INFO ru.innopolis.nur.homework.Main - Method test setStrUrl: successful
+22:02:45,194 [main] INFO ru.innopolis.nur.homework.Main - Method test getStrUrl: successful
+22:02:45,195 [main] INFO ru.innopolis.nur.homework.Main - Method test getResourceName: successful
+22:09:45,365 [main] INFO ru.innopolis.nur.homework.Main - Method test sum: successful
+22:09:45,369 [main] INFO ru.innopolis.nur.homework.Main - Method test setStrUrl: successful
+22:09:45,370 [main] INFO ru.innopolis.nur.homework.Main - Method test getStrUrl: successful
+22:09:45,370 [main] INFO ru.innopolis.nur.homework.Main - Method test getResourceName: successful
+22:10:09,114 [main] INFO ru.innopolis.nur.homework.Main - Program has started
+22:10:42,075 [Thread-2] INFO ru.innopolis.nur.homework.Main - The total sum of all even positive numbers is: 108000
+22:10:42,077 [Thread-2] INFO ru.innopolis.nur.homework.Main - The number of finished threads is: 3
+22:10:42,077 [Thread-2] INFO ru.innopolis.nur.homework.Main - The program has finished

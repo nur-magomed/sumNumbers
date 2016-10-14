@@ -1,0 +1,15 @@
+Author/developer: Nur-Magomed Arsakhanov
+
+This program takes source names as input.
+
+They can be passed as arguments from terminal. 
+If the arguments will be empty, the program allows user to enter sources adter starting.
+
+The source files must be in the same folder as source.
+There are already two files "numbers" and "numbers2" in that folder.
+
+If there is any problems with this appication, please contact me on this email: nur-magomed@mail.ru
+
+Task: Необходимо разработать программу, которая получает на вход список ресурсов, содержащих набор чисел и считает сууму всех положительных четных. Каждый ресурс должен быть обработан в отдельном потоке, набор должен содержать лишь числа, унарный оператор "-" и пробелы. Общая сумма должна отображаться на экране и изменяться в режиме реального времени. Все ошибки должны быть корректно обработаны, все API покрыто модульными тестами
+
+

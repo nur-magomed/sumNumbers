@@ -1,0 +1,64 @@
+2016-10-14 00:36:36,716 [INFO ][main            ][   nur.homework.Main] - Method getStrUrl: successful
+2016-10-14 00:38:37,543 [INFO ][main            ][   nur.homework.Main] - Method test getStrUrl: successful
+2016-10-14 00:41:22,924 [INFO ][main            ][   nur.homework.Main] - Method test setStrUrl: successful
+2016-10-14 00:41:22,928 [INFO ][main            ][   nur.homework.Main] - Method test getStrUrl: successful
+2016-10-14 00:48:10,003 [INFO ][main            ][   nur.homework.Main] - Method test setStrUrl: successful
+2016-10-14 00:48:10,007 [INFO ][main            ][   nur.homework.Main] - Method test getStrUrl: successful
+2016-10-14 00:48:10,008 [INFO ][main            ][   nur.homework.Main] - Method test getResourceName: successful
+2016-10-14 00:49:13,231 [INFO ][main            ][   nur.homework.Main] - Method test setStrUrl: successful
+2016-10-14 00:49:13,234 [INFO ][main            ][   nur.homework.Main] - Method test getStrUrl: successful
+2016-10-14 00:49:13,235 [INFO ][main            ][   nur.homework.Main] - Method test getResourceName: successful
+2016-10-14 00:50:13,475 [INFO ][main            ][   nur.homework.Main] - Method test sum: successful
+2016-10-14 00:50:13,479 [INFO ][main            ][   nur.homework.Main] - Method test setStrUrl: successful
+2016-10-14 00:50:13,481 [INFO ][main            ][   nur.homework.Main] - Method test getStrUrl: successful
+2016-10-14 00:50:13,490 [INFO ][main            ][   nur.homework.Main] - Method test getResourceName: successful
+2016-10-14 01:20:22,652 [INFO ][main            ][   nur.homework.Main] - Method test sum: successful
+2016-10-14 01:20:22,656 [INFO ][main            ][   nur.homework.Main] - Method test getFileName: successful
+2016-10-14 01:20:22,658 [INFO ][main            ][   nur.homework.Main] - Method test setFileName: successful
+2016-10-14 01:20:22,659 [INFO ][main            ][   nur.homework.Main] - Method test getFileName: successful
+2016-10-14 01:20:27,035 [INFO ][main            ][   nur.homework.Main] - Method test setFinalSum: successful
+2016-10-14 01:20:27,040 [INFO ][main            ][   nur.homework.Main] - Method test getFinalSum: successful
+2016-10-14 10:20:18,572 [INFO ][main            ][   nur.homework.Main] - Method test setFinalSum: successful
+2016-10-14 10:20:18,584 [INFO ][main            ][   nur.homework.Main] - Method test getFinalSum: successful
+2016-10-14 18:07:14,120 [INFO ][main            ][   nur.homework.Main] - Method test setActiveThreads: successful
+2016-10-14 18:07:14,127 [INFO ][main            ][   nur.homework.Main] - Method test getActiveThreads: successful
+2016-10-14 18:07:14,128 [INFO ][main            ][   nur.homework.Main] - Method test setFinalSum: successful
+2016-10-14 18:07:14,129 [INFO ][main            ][   nur.homework.Main] - Method test getFinalSum: successful
+2016-10-14 20:23:03,442 [INFO ][main            ][   nur.homework.Main] - Method test setActiveThreads: successful
+2016-10-14 20:23:03,446 [INFO ][main            ][   nur.homework.Main] - Method test getFinalSum: successful
+2016-10-14 20:23:03,447 [INFO ][main            ][   nur.homework.Main] - Method test getActiveThreads: successful
+2016-10-14 20:23:03,447 [INFO ][main            ][   nur.homework.Main] - Method test setFinalSum: successful
+2016-10-14 20:23:03,448 [INFO ][main            ][   nur.homework.Main] - Method test getFinalSum: successful
+2016-10-14 22:00:13,461 [INFO ][main            ][   nur.homework.Main] - Program has started
+2016-10-14 22:00:13,521 [INFO ][Thread-2        ][   nur.homework.Main] - The total sum of all even positive numbers is: 62
+2016-10-14 22:00:13,521 [INFO ][Thread-2        ][   nur.homework.Main] - The number of finished threads is: 3
+2016-10-14 22:00:13,521 [INFO ][Thread-2        ][   nur.homework.Main] - The program has finished
+2016-10-14 22:00:42,571 [INFO ][main            ][   nur.homework.Main] - Program has started
+2016-10-14 22:00:42,693 [INFO ][Thread-2        ][   nur.homework.Main] - The total sum of all even positive numbers is: 108000
+2016-10-14 22:00:42,693 [INFO ][Thread-2        ][   nur.homework.Main] - The number of finished threads is: 3
+2016-10-14 22:00:42,693 [INFO ][Thread-2        ][   nur.homework.Main] - The program has finished
+2016-10-14 22:01:20,929 [INFO ][main            ][   nur.homework.Main] - Program has started
+2016-10-14 22:01:34,584 [INFO ][Thread-0        ][   nur.homework.Main] - The total sum of all even positive numbers is: 58192
+2016-10-14 22:01:34,586 [INFO ][Thread-0        ][   nur.homework.Main] - The number of finished threads is: 2
+2016-10-14 22:01:34,586 [INFO ][Thread-0        ][   nur.homework.Main] - The program has finished
+2016-10-14 22:02:31,198 [INFO ][main            ][   nur.homework.Main] - Method test sum: successful
+2016-10-14 22:02:31,206 [INFO ][main            ][   nur.homework.Main] - Method test getFileName: successful
+2016-10-14 22:02:31,207 [INFO ][main            ][   nur.homework.Main] - Method test setFileName: successful
+2016-10-14 22:02:31,208 [INFO ][main            ][   nur.homework.Main] - Method test getFileName: successful
+2016-10-14 22:02:38,900 [INFO ][main            ][   nur.homework.Main] - Method test setActiveThreads: successful
+2016-10-14 22:02:38,904 [INFO ][main            ][   nur.homework.Main] - Method test getFinalSum: successful
+2016-10-14 22:02:38,905 [INFO ][main            ][   nur.homework.Main] - Method test getActiveThreads: successful
+2016-10-14 22:02:38,906 [INFO ][main            ][   nur.homework.Main] - Method test setFinalSum: successful
+2016-10-14 22:02:38,906 [INFO ][main            ][   nur.homework.Main] - Method test getFinalSum: successful
+2016-10-14 22:02:45,190 [INFO ][main            ][   nur.homework.Main] - Method test sum: successful
+2016-10-14 22:02:45,194 [INFO ][main            ][   nur.homework.Main] - Method test setStrUrl: successful
+2016-10-14 22:02:45,194 [INFO ][main            ][   nur.homework.Main] - Method test getStrUrl: successful
+2016-10-14 22:02:45,195 [INFO ][main            ][   nur.homework.Main] - Method test getResourceName: successful
+2016-10-14 22:09:45,365 [INFO ][main            ][   nur.homework.Main] - Method test sum: successful
+2016-10-14 22:09:45,369 [INFO ][main            ][   nur.homework.Main] - Method test setStrUrl: successful
+2016-10-14 22:09:45,370 [INFO ][main            ][   nur.homework.Main] - Method test getStrUrl: successful
+2016-10-14 22:09:45,370 [INFO ][main            ][   nur.homework.Main] - Method test getResourceName: successful
+2016-10-14 22:10:09,114 [INFO ][main            ][   nur.homework.Main] - Program has started
+2016-10-14 22:10:42,075 [INFO ][Thread-2        ][   nur.homework.Main] - The total sum of all even positive numbers is: 108000
+2016-10-14 22:10:42,077 [INFO ][Thread-2        ][   nur.homework.Main] - The number of finished threads is: 3
+2016-10-14 22:10:42,077 [INFO ][Thread-2        ][   nur.homework.Main] - The program has finished
