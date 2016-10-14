@@ -3,7 +3,7 @@ Author/developer: Nur-Magomed Arsakhanov
 This program takes source names as input.
 
 They can be passed as arguments from terminal. 
-If the arguments will be empty, the program allows user to enter sources adter starting.
+If the arguments are empty, the program will allow user to enter sources after starting.
 
 The source files must be in the same folder as source.
 There are already two files "numbers" and "numbers2" in that folder.
