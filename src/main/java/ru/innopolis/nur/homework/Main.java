@@ -21,10 +21,12 @@ public class Main {
 
 
         if(args.length==0){
+            /*некорректно использовать System.out, нужно настраивать логгер*/
             System.out.println("No arguments were passed");
             System.out.println("Please enter the sources");
             {
                 try (InputStreamReader isr = new InputStreamReader(System.in);){
+                    /*Ресурс тоже должен быть закрыт*/
                     BufferedReader br=new BufferedReader(isr);
                     args=br.readLine().split(" ");
                 } catch (IOException e) {

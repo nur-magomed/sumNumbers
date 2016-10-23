@@ -75,7 +75,7 @@ public abstract class Input {
      * @param finalSum
      */
     protected void trackActiveThreads(FinalSum finalSum){
-
+            /*Замечание:не синхронизировано по общему ресурсу*/
             interruptedThreads++;
 
         synchronized (finalSum){

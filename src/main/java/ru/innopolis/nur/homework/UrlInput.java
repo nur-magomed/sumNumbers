@@ -54,12 +54,14 @@ public class UrlInput extends Input implements Runnable{
                 sum(line, this.fSum);
             }
 
+            /*Замечание:При использовании try-with-resources не нужно закрывать ресурсы самостоятельно*/
             in.close();
         }
         catch (MalformedURLException e) {
-
+            /*Замечание:где логгирование?*/
             e.printStackTrace();
         } catch(UnknownHostException ex){
+            /*Замечание:некорретная остановка потоков*/
             //interapts all threads
             for (Thread t : Thread.getAllStackTraces().keySet())
             {  if (t.getState()==Thread.State.RUNNABLE)
